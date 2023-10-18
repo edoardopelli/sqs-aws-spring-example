@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cheetah.aws</groupId>
-	<artifactId>sqs</artifactId>
+	<artifactId>sqs-aws-example</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>sqs-consumer</name>
 	<description>Demo project for Spring Boot</description>
